@@ -1,0 +1,6 @@
+Unnamed: 0,Model,WMAE
+0.0,RandomForest,13693.063053913578
+1.0,GradientBoosting,7864.814057426034
+2.0,XGBoost,7459.980518710376
+3.0,Lasso,12343.5881535082
+,RandomForest with feature selection,1801.94457606080
