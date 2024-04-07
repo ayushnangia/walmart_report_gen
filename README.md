@@ -44,14 +44,14 @@ This tool is designed to simplify the analysis of sales data by providing a user
 ### Setup Environment
 
 1. **Clone the Repository:**
-   ```
-   git clone https://github.com/ayushnangia/walmart_report_gen
-   ```
+```
+git clone https://github.com/ayushnangia/walmart_report_gen
+```
 
 2. **Install Dependencies:**
-   ```
-   pip install -r requirements.txt
-   ```
+```
+pip install -r requirements.txt
+```
 
 ### Run the Application
 
