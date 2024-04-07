@@ -30,14 +30,14 @@ This tool is designed to simplify the analysis of sales data by providing a user
    - Download the `llama-2-7b-chat.ggmlv3.q8_0.bin` model file.
 
 2. **Prepare the Model Directory:**
-   ```
-   mkdir -p model
-   ```
+```
+mkdir -p model
+```
 
 3. **Place the Model File:**
-   ```
-   mv /path/to/llama-2-7b-chat.ggmlv3.q8_0.bin ./model/
-   ```
+```
+mv /path/to/llama-2-7b-chat.ggmlv3.q8_0.bin ./model/
+```
 
 ## Getting Started
 
